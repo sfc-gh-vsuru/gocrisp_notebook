@@ -1,1 +1,1 @@
-GOCRISP AI Blueprints
+GOCRISP AI Blueprint - Notebook 
